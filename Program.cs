@@ -1,6 +1,6 @@
 ﻿#region Constants
 const int SEED = 4711;
-const int N_NUMBERS = int.MaxValue - 1;
+const int N_NUMBERS = 1_000_000;
 const int MIN = 1;
 const int MAX = 1_000_000_000;
 #endregion
